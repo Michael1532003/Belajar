@@ -1,1 +1,2 @@
 //lolllllll
+var nama = "Michael"
